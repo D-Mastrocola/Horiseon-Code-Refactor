@@ -1,8 +1,7 @@
-# Heriseon Code Refactor
+# [Heriseon Code Refactor](https://d-mastrocola.github.io/Horiseon-Code-Refactor/Develop/)
 
 A mockup design for a SEO company. It replicates an on job task that I will regularly have to do. 
 
-## [Live Site](https://d-mastrocola.github.io/Horiseon-Code-Refactor/Develop/)
 
 ![Site Preview](https://github.com/D-Mastrocola/Horiseon-Code-Refactor/blob/main/Develop/assets/images/screenshot.png?raw=true)
 
